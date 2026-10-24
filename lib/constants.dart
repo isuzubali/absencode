@@ -8,7 +8,8 @@ class AppConstants {
   static const double latKantor = -8.640570;
   static const double lngKantor = 115.277860;
   static const double radiusMaksimal = 100; // meter
-
+// const LAT_KANTOR = -8.641780485447883;//denpasar
+// const LNG_KANTOR = 115.20976543096513;
   /// WhatsApp Group
   static const String waGroupUrl =
       'https://chat.whatsapp.com/JW6Kmc4hM0L0VGITCR1B0x';
